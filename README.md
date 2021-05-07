@@ -98,6 +98,14 @@
 	<li><b>Recurso: @nderleyson</b></li>
 </ul>
 
+<b><i>Login.2</i> - Autenticar dados do cliente</b>
+<ul>  
+	<li><b>	Estimativa:</b> 2h</li>
+	<li><b>Início previsto:</b> 09/05/2021</li>
+	<li><b>Término previsto:</b> 09/05/2021</li>
+	<li><b>Recurso: @nderleyson</b></li>
+</ul>
+
 -----------------------------------------------------------------------------
 
 ### Sprint planning 02
@@ -206,4 +214,5 @@
 	<li><b>Término previsto:</b> 26/05/2021</li>
 	<li><b>Recurso: @nderleyson</b></li>
 </ul>
+
 
