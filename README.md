@@ -98,4 +98,66 @@
 	<li><b>Recurso: @nderleyson</b></li>
 </ul>
 
- 
+-----------------------------------------------------------------------------
+
+### Sprint planning 02
+#### Sprint goal ----> Departamento cadastro
+>Refinamento de item backlog 
+>>Registro de departamentos
+
+###### Como admin quero inserir departamentos no sistema
+
+### Sprint 02: Cadastro de departamentos
+
+<b><i>cadastroDepartamentos.0</i> - Tela de cadastro de departamentos</b>
+<ul>  
+	<li><b>	Estimativa:</b> 1 dia</li>
+	<li><b>Início previsto:</b> 10/05/2021</li>
+	<li><b>Término previsto:</b> 11/05/2021</li>
+	<li><b>Recurso: @nderleyson</b></li>
+</ul>
+
+<b><i>cadastroDepartamentos.1</i> - Inserir departamentos no banco de dados</b>
+<ul>  
+	<li><b>	Estimativa:</b> 3h</li>
+	<li><b>Início previsto:</b> 11/05/2021</li>
+	<li><b>Término previsto:</b> 11/05/2021</li>
+	<li><b>Recurso: @nderleyson</b></li>
+</ul>
+-----------------------------------------------------------------------------
+
+### Sprint planning 03
+#### Sprint goal ----> Registro de produtos no sistema
+
+>Refinamento de item backlog 
+>>Registro de produtos
+
+###### Como admin quero logar no sistema
+###### Como admin quero cadastrar produtos no sistema
+
+
+### Sprint 03: Registro de produtos no sistema 
+
+<b><i>cadastroProdutos.0</i> - Tela de cadastro de produtos</b>
+<ul>  
+	<li><b>Estimativa:</b> 1 dia</li>
+	<li><b>Início previsto:</b> 13/05/2021</li>
+	<li><b>Término previsto:</b> 14/05/2021</li>
+	<li><b>Recurso: @nderleyson</b></li>
+</ul>
+
+<b><i>cadastroProdutos.1</i> - Incluir produto a um departamento</b>
+<ul>  
+	<li><b>	Estimativa:</b> 6h</li>
+	<li><b>Início previsto:</b> 15/05/2021</li>
+	<li><b>Término previsto:</b> 15/05/2021</li>
+	<li><b>Recurso: @nderleyson</b></li>
+</ul>
+
+<b><i>cadastroProdutos.2</i> - Inserir produto no banco de dados</b>
+<ul>  
+	<li><b>	Estimativa:</b> 3h</li>
+	<li><b>Início previsto:</b> 15/05/2021</li>
+	<li><b>Término previsto:</b> 15/05/2021</li>
+	<li><b>Recurso: @nderleyson</b></li>
+</ul>
