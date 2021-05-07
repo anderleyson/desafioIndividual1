@@ -127,7 +127,7 @@
 -----------------------------------------------------------------------------
 
 ### Sprint planning 03
-#### Sprint goal ----> Registro de produtos no sistema
+#### Sprint goal ----> Produtos cadastro
 
 >Refinamento de item backlog 
 >>Registro de produtos
