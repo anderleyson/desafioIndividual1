@@ -3,6 +3,51 @@
 >DESAFIO INDIVIDUAL 1 - GAMA ACADEMY [HACKER]
 
 
+### Construção backlog
+#### Epic
+<ol>
+	<li>Cadastro e autenticação de clientes</li>
+	<li>Registro de departamentos</li>
+	<li>Registro de produtos</li>
+	<li>Registro de pedidos</li>
+</ol>
+
+<table>
+	<thead>
+		<th><b>Item backlog</b></th>
+		<th>Estimativa </th>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Cadastro e autenticação de clientes</td>
+			<td>4 dias</td>
+		</tr>
+		<tr>
+			<td>Registro de departamentos</td>
+			<td>6h</td>
+		</tr>
+		<tr>
+			<td>Registro de produtos</td>
+			<td>4 dias</td>
+		</tr>
+		<tr>
+			<td>Registro de pedidos</td>
+			<td>2 dias</td>
+		</tr>
+	</tbody>
+</table>
+
+
+### Sprint planning 01
+#### Sprint goal ----> Cliente acessa o sistema
+
+>Refinamento de item backlog 
+>>Cadastro e autenticação de clientes
+
+###### Como cliente quero me cadastrar no sistema
+###### Como cliente quero logar no sistema
+
+
 ### Sprint 01: Cliente acessa ao sistema 
 
 <b><i>Cadastro.0</i> - Tela de cadastro</b>
@@ -53,4 +98,4 @@
 	<li><b>Recurso: @nderleyson</b></li>
 </ul>
 
-  
+ 
