@@ -32,7 +32,7 @@
 		</tr>
 		<tr>
 			<td>Registro de pedidos</td>
-			<td>2 dias</td>
+			<td>8 dias</td>
 		</tr>
 	</tbody>
 </table>
@@ -127,7 +127,7 @@
 -----------------------------------------------------------------------------
 
 ### Sprint planning 03
-#### Sprint goal ----> Produtos cadastro
+#### Sprint goal ----> Registro de produtos no sistema
 
 >Refinamento de item backlog 
 >>Registro de produtos
@@ -161,3 +161,49 @@
 	<li><b>Término previsto:</b> 15/05/2021</li>
 	<li><b>Recurso: @nderleyson</b></li>
 </ul>
+
+-----------------------------------------------------------------------------
+
+### Sprint planning 04
+#### Sprint goal ----> Pedidos cadastro
+>Refinamento de item backlog 
+>>Registro de pedidos
+
+###### Como cliente quero registrar um pedido no sistema
+###### Como admin devo realizar a atualização da situação do pedido para que o cliente saiba como está sua solicitação
+
+
+### Sprint 04: Registro de pedidos no sistema 
+
+<b><i>solicitacaoPedido.0</i> - Tela do produto</b>
+<ul>  
+	<li><b>Estimativa:</b> 2 dias</li>
+	<li><b>Início previsto:</b> 20/05/2021</li>
+	<li><b>Término previsto:</b> 22/05/2021</li>
+	<li><b>Recurso: @nderleyson</b></li>
+</ul>
+
+<b><i>solicitacaoPedido.1</i> - Incluir solicitação de novo pedido no banco de dados</b>
+<ul>  
+	<li><b>	Estimativa:</b> 6h</li>
+	<li><b>Início previsto:</b> 22/05/2021</li>
+	<li><b>Término previsto:</b> 23/05/2021</li>
+	<li><b>Recurso: @nderleyson</b></li>
+</ul>
+
+<b><i>solicitacaoPedido.2</i> - Verificar situação de pagamento</b>
+<ul>  
+	<li><b>	Estimativa:</b> 1 dia</li>
+	<li><b>Início previsto:</b> 25/05/2021</li>
+	<li><b>Término previsto:</b> 25/05/2021</li>
+	<li><b>Recurso: @nderleyson</b></li>
+</ul>
+
+<b><i>respostaPedido.0</i> - Informar situação do pedido na plataforma</b>
+<ul>  
+	<li><b>	Estimativa:</b> 1 dia</li>
+	<li><b>Início previsto:</b> 26/05/2021</li>
+	<li><b>Término previsto:</b> 26/05/2021</li>
+	<li><b>Recurso: @nderleyson</b></li>
+</ul>
+
