@@ -1,5 +1,6 @@
 # desafioIndividual1
-DESAFIO INDIVIDUAL 1 - GAMA ACADEMY [HACKER]
+
+>DESAFIO INDIVIDUAL 1 - GAMA ACADEMY [HACKER]
 
 Sprint 01: Client acessa ao sistema 
 
